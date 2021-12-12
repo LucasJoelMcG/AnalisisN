@@ -1,0 +1,11 @@
+La aproximación por mínimos cuadrados es una herramienta que permite obtener 
+un modelo del comportamiento de una variable y (en términos de varias otras variables x1 hasta xM) 
+sujeta a errores aleatorios (datos ruidosos).
+
+La base de esta aproximación está estrechamente relacionada con conceptos estadísticos
+
+La medida de cuan dispersos están los valores de yk con respecto de la aproximación dada
+por un polinomio cuadrado mínimo es el cuadrado de la desviación estándar (o varianza) 
+y es un promedio ponderado de los cuadrados de las desviaciones con respecto al polinomio
+(A MENOR VARIANZA MEJOR APROXIMACION)
+

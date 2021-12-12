@@ -1,0 +1,14 @@
+ set   autoscale
+ unset log
+ unset label
+ set xtic auto
+ set ytic auto
+ set grid
+ set title "Elegir punto semilla"
+ set xlabel "x"
+ set ylabel "y"
+ set xrange[-2:1]
+ plot  (y=x) title "y=x" with lines,\
+ (y=(x**2)) title "g(x)" with lines lt 8,\
+ (y=(x**2)-x) title "f(x)" with lines,\
+ (y=0) title "y=0" with lines

@@ -1,0 +1,11 @@
+4                    //  numero de incognitas                   
+50                   //  maximo de iteraciones
+0.0001               //  tolerancia
+
+10  -1  2   0        // matriz de coeficientes
+-1  11  -1  3        // matriz de coeficientes
+2   -1  10  -1       // matriz de coeficientes
+0   3   -1  8        // matriz de coeficientes
+6   25  -11 15       // terminos independientes
+0   0   0   0        // aproximacion inicial
+1.25                 // w de SOR

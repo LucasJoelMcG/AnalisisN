@@ -1,0 +1,28 @@
+Para el proceso de esterilización se desarrolla un modelo de
+transferencia de calor y masa que permite predecir la evolución y distribución de la
+temperatura y concentración de agaritina en la fase líquida y en la fase sólida durante su
+procesamiento térmico. A este modelo se le acoplan cinéticas de destrucción térmica de
+microorganismos y de componentes antinutricionales como la agaritina, lo que permite
+determinar la variación de los mismos durante el proceso y establecer el factor limitante
+del tiempo de proceso. 
+
+la simulación numérica resulta ser una valiosa herramienta que permite predecir la
+evolución y distribución de la temperatura y a su vez, por medio de cinéticas, las variaciones del
+contenido microbiológico y de agaritina. En este trabajo se desarrolló un modelo de transferencia de
+calor y materia que permite predecir la evolución y distribución de la temperatura y de la
+concentración de agaritina durante el procesamiento térmico de conservas de champiñón.
+
+
+https://vidanaturalia.com/el-champinon-poder-antioxidante-y-antitumoral/
+
+
+
+http://sedici.unlp.edu.ar/bitstream/handle/10915/2671/Documento_completo__.pdf?sequence=3
+
+
+https://bdigital.zamorano.edu/bitstream/11036/1063/1/AGI-2005-T004.pdf
+
+N(t)= numero de esporas luego de un tiempo t
+N0= numero inicial de esporas
+K= constante cinetica, puede ser expresada con la ecuacion de Arrhenius
+
